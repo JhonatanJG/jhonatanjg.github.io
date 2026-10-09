@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Jhonatan Stiven Camacho Galeano
 
-Chía, Colombia · [GitHub](https://github.com/JhonatanJG) · [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+Chía, Colombia · [GitHub](https://github.com/JhonatanJG) · [LinkedIn](https://www.linkedin.com/in/jhonatan-stiven-camacho)
 
 ## Professional Summary
 Systems Engineering student and digital entrepreneur with experience in
