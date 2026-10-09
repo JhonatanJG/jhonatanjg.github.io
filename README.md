@@ -1,5 +1,4 @@
-# jhonatancamacho.github.io
-Welcome to DreamToDesign ✨
+# Welcome to DreamToDesign ✨
 
 Hi! I'm Jhonatan, an operations professional and a digital entrepreneur.
 
@@ -13,4 +12,4 @@ On this blog I share what I'm learning about the digital economy,
 from online payments and sponsorship platforms to building a business
 on the internet.
 
-☕ [Support my work on Ko-fi](https://ko-fi.com/tuusuario)
+☕ [Support my work on Ko-fi](https://ko-fi.com/jhonatanjg)
