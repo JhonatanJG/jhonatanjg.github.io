@@ -1,5 +1,7 @@
 # Welcome to DreamToDesign ✨
 
+[Home](/) | [CV](/cv/) | [Projects](/projects/) | [Blog](/blog/)
+
 Hi! I'm Jhonatan, an operations professional and a digital entrepreneur.
 
 DreamToDesign is my online store on Shopify where I sell fully
